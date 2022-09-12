@@ -1,0 +1,1 @@
+This is my first project that I used HTML and CSS. I tried to code Starbucks' home page.
